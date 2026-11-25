@@ -1,4 +1,4 @@
-# Portofolio Suwvvzt
+# Portofolio lovely 
 
 Portofolio pribadi yang dibangun dengan HTML, CSS, dan JavaScript murni. Desain elegan dengan palet warna warm ink, cream, dan champagne gold — sesuai estetika Lilyzhao.
 
